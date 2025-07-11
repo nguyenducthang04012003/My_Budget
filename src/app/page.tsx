@@ -7,7 +7,7 @@ const HomePage = () => {
   const router = useRouter();
 
   const handleNavigate = () => {
-    router.push('/login'); 
+    router.push('/homepage'); 
   };
 
   return (
